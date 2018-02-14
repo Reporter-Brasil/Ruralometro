@@ -46,5 +46,5 @@ São os dois programas finais para extrair as estatísticas dos deputados em rel
 
 ----
 
-#### Quer ajudar os desenvolvedores (que são apenas jornalistas)?
+#### Quer ajudar os desenvolvedores (que são jornalistas)?
 Este é um projeto open source aberto e de mente aberta. Os principais objetivos são gerar dados públicos sobre a forma como políticos brasileiros tratam questões socioambientais. Se você tiver comentários, críticas ou sugestões, basta escrever-nos (contato@reporterbrasil.org.br) ou escrever no Issues/Pull requests.
