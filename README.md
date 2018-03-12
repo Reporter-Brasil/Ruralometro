@@ -1,6 +1,7 @@
 [![Ruralômetro](doc/ruralometro.png)](https://ruralometro.reporterbrasil.org.br)
 
 ----
+(Read project [summary](http://datadrivenjournalism.net/featured_projects/ruralometro_evaluating_how_brazils_congressmen_impact_socio_environment) in English)
 
 O [Ruralômetro](https://ruralometro.reporterbrasil.org.br/) é um banco de dados e uma ferramenta interativa que mede como os deputados federais eleitos em 2014 agiram frente a projetos de lei e medidas provisórias que têm impactos sobre o meio ambiente, os povos indígenas e trabalhadores rurais.
 
