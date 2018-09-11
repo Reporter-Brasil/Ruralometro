@@ -15,8 +15,14 @@ O Github do Ruralômetro apresenta os programas que foram utilizados para extrai
 
 ----
 
-### BANCADA RURALISTA
-É o programa que mostra quais dos membros da Frente Parlamentar da Agropecuária (bancada ruralista) são deputados federais eleitos em 2014. Essa informação será usada em outros pontos do projeto
+### BENS
+É o programa que acessa as declarações de bens dos deputados federais eleitos em 2014 e depois filtra apenas os bens rurais. O grau de transparência da declaração de bens em 2018 caiu e não é mais possível por exemplo saber os tipos de cada bem
+
+### CANDIDATOS
+É o programa que mostra quais dos membros da Frente Parlamentar da Agropecuária (bancada ruralista) são deputados federais eleitos em 2014. Essa informação será usada em outros pontos do projeto. Cria também o dataframe base que terá informações gerais dos 513 deputados eleitos em 2014 - total de doações, partidos políticos atuais, se disputa reeleição e para qual cargo
+
+### EMPRESAS
+A partir de informações da Receita Federal mostra quais são as empresas rurais dos deputados federais eleitos em 2014
 
 ### FOTOS
 Acessa o site da Câmara dos Deputados e baixa as fotos dos 513 deputados federais eleitos em 2014
@@ -24,8 +30,8 @@ Acessa o site da Câmara dos Deputados e baixa as fotos dos 513 deputados federa
 ### INSS/FUNRURAL
 Com base em informações da Procuradoria-Geral da Fazenda Nacional, essa base mostra quais deputados têm empresas com dívidas ao INSS e quais dessas empresas devem ao Funrural (Previdência rural)
 
-### PARTIDOS
-Partidos políticos dos deputados eleitos em 2014
+### PROCESSOS
+Verifica no site do Supremo Tribunal Federal quais os processos que os deputados federais eleitos em 2014 respondem
 
 ### PROJETOS
 Verifica a lista autoria de projetos legislativos indicados por organizações do setor socioambiental e seleciona apenas os dos deputados eleitos em 2014
@@ -49,3 +55,6 @@ São os dois programas finais para extrair as estatísticas dos deputados em rel
 
 #### Quer ajudar os desenvolvedores (que são jornalistas)?
 Este é um projeto open source aberto e de mente aberta. Os principais objetivos são gerar dados públicos sobre a forma como políticos brasileiros tratam questões socioambientais. Se você tiver comentários, críticas ou sugestões, basta escrever-nos (contato@reporterbrasil.org.br) ou escrever no Issues/Pull requests.
+
+
+Atualizado em 11/set/2018
