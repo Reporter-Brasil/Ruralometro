@@ -51,10 +51,13 @@ Mostra quais foram os deputados eleitos em 2014 que receberam doações de empre
 ### RURALÔMETRO
 São os dois programas finais para extrair as estatísticas dos deputados em relação a temperatura e número de aparição em cada item acima. O outro programa detalha as autorias de projetos e as votações - isso permite verificar o cálculo da temperatura e entender melhor os gráficos
 
+### DOAÇÕES 2018
+Verifica quais candidatos 2018 receberam doações de pessoas na lista de embargos do Ibama e na lista do trabalho escravo
+
 ----
 
 #### Quer ajudar os desenvolvedores (que são jornalistas)?
 Este é um projeto open source aberto e de mente aberta. Os principais objetivos são gerar dados públicos sobre a forma como políticos brasileiros tratam questões socioambientais. Se você tiver comentários, críticas ou sugestões, basta escrever-nos (contato@reporterbrasil.org.br) ou escrever no Issues/Pull requests.
 
 
-Atualizado em 11/set/2018
+Atualizado em 10/out/2018
